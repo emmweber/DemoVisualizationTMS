@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/EMG.unity
+    guid: 745c802f3c2bb734f963573b1c899258
+  - enabled: 0
+    path: Assets/Scenes/EMG_max_value.unity
+    guid: 2c9cc27d455b0ad40b30d83118119b24
+  - enabled: 0
+    path: Assets/Scenes/EMG_max_value_12_2021.unity
+    guid: 17841e60f255e584188ff12d975eb21f
+  - enabled: 0
+    path: Assets/Scenes/EMG_max_registration_03_2022.unity
+    guid: ec8ffbdbbd72a9f4f84a8fd57cefdcde
+  - enabled: 0
+    path: Assets/Scenes/Registration.unity
+    guid: 1a6be17303745db4492de565a9f71220
+  - enabled: 0
+    path: Assets/Scenes/EMG_max_registration_04_2022.unity
+    guid: c0cb24b9446b92749b9e6f773f39a3ce
+  - enabled: 1
+    path: Assets/Scenes/demo-11022022.unity
+    guid: e3653e0864f08314ca7834da26cfff40
+  - enabled: 0
+    path: Assets/Scenes/test_deploy.unity
+    guid: ea5fc5defb0aad44188747b1adcdc94e
+  m_configObjects:
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: abc08e61ae6698348a09b20cd7b58eea, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a898608ceec9e6648b4c4bcfa90dca52, type: 2}
